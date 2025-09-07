@@ -1,7 +1,7 @@
 class Fs < Formula
   desc "Scroll Figlet-generated ASCII art across the terminal, inspired by sl"
-  homepage "https://github.com/insasquatchcountry/figscroll"
-  head "https://github.com/insasquatchcountry/figscroll.git"
+  homepage "https://github.com/insasquatchcountry/FigScroll"
+  head "https://github.com/insasquatchcountry/FigScroll.git"
 
   license "MIT"
 
