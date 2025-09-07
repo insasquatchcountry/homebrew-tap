@@ -3,7 +3,7 @@ class Fs < Formula
   homepage "https://github.com/insasquatchcountry/FigScroll"
   # Comment out url until v1.0.0 is released
   # url "https://github.com/insasquatchcountry/FigScroll/archive/v1.0.0.tar.gz"
-  head "https://github.com/insasquatchcountry/FigScroll.git"
+  head "https://github.com/insasquatchcountry/FigScroll.git", branch: "main"
 
   license "MIT"
 
