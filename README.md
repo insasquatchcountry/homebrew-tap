@@ -8,9 +8,15 @@ This is a Homebrew tap for tools developed by insasquatchcountry.
 - `alist`: [Describe aList - update me!].
 
 ## Installation
-Tap this repository and install formulae:
-```bash
-brew tap insasquatchcountry/tap
-brew install fs
-brew install rustyvibes
-brew install alist
+Tap this repository:
+
+`brew tap insasquatchcountry/tap`
+
+Install formulae:
+
+`brew install fs`
+
+⚠️ Under Construction ⚠️ 2025-09-07 
+> brew install rv
+
+> brew install al
