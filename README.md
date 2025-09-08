@@ -3,7 +3,7 @@
 This is a Homebrew tap for tools developed by insasquatchcountry.
 
 ## Available Formulae
-- `fs`: Scroll Figlet-generated ASCII art across the terminal.
+- [FigScroll](https://github.com/insasquatchcountry/FigScroll) (`fs`): Scroll Figlet-generated ASCII art across the terminal.
 - `rustyvibes`: [Describe rustyvibes - update me!].
 - `alist`: [Describe aList - update me!].
 
